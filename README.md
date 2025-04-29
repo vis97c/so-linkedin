@@ -10,3 +10,5 @@ Datos obtenidos de: https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs
 # Recompilar .exe en windows
 cl main.c
 ```
+## ¡Importante!
+Si desea clonar el repositorio incluyendo la base de datos, debe tener git lfs.
